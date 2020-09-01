@@ -26,7 +26,7 @@ class Mouse
 	friend class MainWindow;
 public:
 	class Event
-	{
+	{//dsaadsadsad
 	public:
 		enum Type
 		{

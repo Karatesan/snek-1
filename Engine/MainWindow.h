@@ -28,7 +28,7 @@
 
 // for granting special access to hWnd only for Graphics constructor
 class HWNDKey
-{
+{//dasdadas
 	friend Graphics::Graphics( HWNDKey& );
 public:
 	HWNDKey( const HWNDKey& ) = delete;
