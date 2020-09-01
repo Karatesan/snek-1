@@ -7,7 +7,7 @@
 #include <vector>
 
 class Board
-{
+{//dupaaaaa
 public:
 	enum class CellContents
 	{
